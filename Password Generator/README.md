@@ -23,3 +23,6 @@ Application uses secrets module instead of random module on Python environments 
 
 ## Contribution
 Contributions are welcomed via PR.
+
+## License
+ * [MIT](LICENSE)
