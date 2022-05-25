@@ -1,4 +1,5 @@
 # Python - Random Password Generator
+![Python](https://img.shields.io/badge/Python->3.6-lightblue)
 
 ## Features
 
@@ -19,7 +20,7 @@
 
 
 ## Usuage
-Application uses secrets module instead of random module on Python environments above 3.6.
+Application uses [secrets](https://docs.python.org/3/library/secrets.html) module instead of random module on Python environments above 3.6.
 
 ## Contribution
 Contributions are welcomed via PR.
