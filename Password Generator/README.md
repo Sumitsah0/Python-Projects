@@ -11,8 +11,8 @@
 
 | property   |                          Description                 | Default |
 | ---------- |------------------------------------------------------| ------- |
-| minlen     |   Minimum length of the password                     | 6 |
-| maxlen     |   Maximum length of the password                     | 16 |
+| minlen     |   Minimum length of the password                     | 5 |
+| maxlen     |   Maximum length of the password                     | 15 |
 | minchars  |   Minimum upper case characters required in strong password | 1 |
 | minlchars  |   Minimum lower case characters required in strong password | 1 |
 | minnumbers |   Minimum numbers required in strong password               | 1 |
