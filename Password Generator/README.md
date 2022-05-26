@@ -4,7 +4,7 @@
 ## Features
 
 * No dependencies.
-* Generate a simple password of default length 5-15.
+* Generate a weak, medium & strong password of default length 5-15.
 * Generate Non Duplicate Password.
 
 ## Configuration
